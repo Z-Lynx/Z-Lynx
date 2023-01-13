@@ -1,8 +1,8 @@
-<img src="https://i.gifer.com/OGRQ.gif" width="100%" height="350">
+<img src="image/OGRQ.gif" width="100%" height="350">
 
 <h1 align="center">Hi 👋, I'm Lynn</h1>
 <h3 align="center">Coder, Simp, Loser, Toxic</h3>
-<img align="right" alt="coding" width="350" src="https://i.gifer.com/AQQT.gif">
+<img align="right" alt="coding" width="350" src="image/AQQT.gif">
 
 &nbsp;
 &nbsp;
