@@ -1,4 +1,5 @@
-<img src="image/OGRQ.gif" width="100%" height="350">
+<img src="image/OFF.jpg" width="100%" height="350">
+<!--<img src="image/OGRQ.gif" width="100%" height="350">-->
 
 <h1 align="center">Hi 👋, I'm Lynn</h1>
 <h3 align="center">Coder, Simp, Loser, Toxic</h3>
