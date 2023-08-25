@@ -30,11 +30,11 @@
 &nbsp;
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynngg&show_icons=true&locale=en&layout=compact" alt="lynngg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z-Lynx&show_icons=true&locale=en&layout=compact" alt="Z-Lynx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lynngg&show_icons=true&locale=en" alt="lynngg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Z-Lynx&show_icons=true&locale=en" alt="Z-Lynx" /></p>
 
 &nbsp;
 &nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynngg&" alt="lynngg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Z-Lynx&" alt="Z-Lynx" /></p>
