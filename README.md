@@ -8,4 +8,4 @@
         |_______||_______|  |___|  |_|  |__||__| |__|
 ```
 
-[TELEGRAM] Author @zore666
+[TELEGRAM] Author @shadowsoul666
